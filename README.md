@@ -3,7 +3,7 @@ The Web Application is built/developed using React.js, Node.js, Express.js, HTML
 
 Working of the Web Application :
 
-0.) Navigation bar singe for all web pages as it's single page web application
+0.) Navigation bar single for all web pages as it's single page web application
 
 1.) Landing Page/Home Page
 
